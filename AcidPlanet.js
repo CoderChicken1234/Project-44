@@ -1,0 +1,10 @@
+class acidPlanet{
+    constructor(){
+        
+    }
+
+    play(){
+        
+    }
+}
+
